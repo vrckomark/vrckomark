@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @vrckomark
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning mainly ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Mark,
+
+💙 Love to code in:
+-Typescript & Javascript,
+-Python
+
+🏗️ Frameworks/Libraries I love and work with:
+-NextJS13
+-ReactJS
+-TailwindCSS
+-ExpressJS
+
+❓ Currently looking forward to learning more about blockchain/web3, AI, mobile development, further improving backend knowledge and anything that I find interesting.
 
 <!---
 vrckomark/vrckomark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
